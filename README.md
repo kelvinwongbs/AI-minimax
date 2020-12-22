@@ -25,4 +25,4 @@ Given ```board(BlackL,RedL)``` and ```Player```
 returns ```move(Position,Direction,Quadrant)``` and ```board(NextBlackL,NextRedL)```
 
 **Copyright:**   
-**I own Pentago-minimax.pl.**
+**I own Pentago.pl.**
